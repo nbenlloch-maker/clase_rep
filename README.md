@@ -1,3 +1,3 @@
 # clase_rep
 
-#Esta es la prueba de Juan
+#Esta es la prueba de Sergi
